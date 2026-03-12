@@ -1,0 +1,25 @@
+# Dependências do Node
+node_modules/
+npm-debug.log*
+package-lock.json
+yarn.lock
+
+# Artefatos do Playwright
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# Configurações locais / editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente / segredos
+.env
+.env.*
+

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Desafio Técnico – QA Pleno (Playwright + JavaScript)
 
 Este projeto contém a automação dos cenários Web do site `https://www.saucedemo.com` utilizando **Playwright** com **JavaScript** e padrão **Page Object Model (POM)**.
@@ -69,3 +70,7 @@ Os testes utilizam o ambiente padrão do Playwright (headless). O `baseURL` conf
 - O padrão **Page Object Model (POM)** é utilizado para separar lógica de páginas dos testes.
 - A configuração está preparada para execução paralela dos testes (via `fullyParallel: true`).
 
+=======
+# TesteSauceDemo
+Teste de API com Playwright com Javascript do site saucedemo
+>>>>>>> a501af858ecffb0139042392dd9850dc2d625d81
